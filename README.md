@@ -45,7 +45,7 @@ This project uses **light (LDR)**, **soil moisture**, and **temperature (LM35)**
 
 - 1. **Clone o repositório / Clone the repository**
 
-- git clone https://github.com/seu-usuario/seu-repositorio.git
+- git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/Geovane-ss/arduino-sensores-monitoramento-rgb-lcd)
 
 - 2. Abra o arquivo .ino no Arduino IDE / Open the .ino file in Arduino IDE
 
