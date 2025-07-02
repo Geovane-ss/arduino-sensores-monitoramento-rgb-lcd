@@ -69,7 +69,9 @@ This project uses **light (LDR)**, **soil moisture**, and **temperature (LM35)**
 🏁 Futuras Melhorias | Future Improvements
 
 Adicionar comunicação Wi-Fi com ESP8266
+
 Registrar os dados em nuvem ou cartão SD
+
 Enviar alertas via e-mail ou Telegram
 
 ---
