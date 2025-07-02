@@ -74,9 +74,21 @@ Enviar alertas via e-mail ou Telegram
 
 ---
 
+## 📸 Imagens do Projeto / Project Images
+
+![image](https://github.com/user-attachments/assets/6e545a39-ba66-4654-b0b7-86312ef69fd2)
+
+---
+
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT License]
 
 ---
 
+## 🤝 Autor / Author
+
+**Geovane**
+
+📧 [meugit.geovane.hub@gmail.com]  
+💼 [Linkedin: https://www.linkedin.com/in/geovane-vitor-b7540716b]
